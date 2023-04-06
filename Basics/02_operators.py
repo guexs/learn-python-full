@@ -49,3 +49,22 @@ print(3 < 4 or "Hola" > "Python")
 print(3 < 4 and "Hola" < "Python")
 print(3 < 4 or "Hola" > "Python" and( 4 == 4))
 print(not(3 < 4))
+
+#Exercises:
+
+age = 15
+my_height = 1.70
+complex_number = 4 + 12j
+
+print('Hello, lets calculate the area of your triangle!')
+base = int(input('Write your triangle base: '))
+height = int(input('Write your triangle height: '))
+area_result = 0.5 * base * height
+print('The area of the triangle is: ', area_result)
+
+print('Hello, lets calculate the perimeter of your triangle!')
+side_a = int(input('Enter side a: '))
+side_b = int(input('Enter side b: '))
+side_c = int(input('Enter side c: '))
+perimeter = side_a + side_b + side_c
+print('The perimeter of the triangle is: ', perimeter)
