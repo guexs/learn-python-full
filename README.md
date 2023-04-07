@@ -1,3 +1,3 @@
-# Learn Python
+# Learn Python!
 
 ## Day 3
